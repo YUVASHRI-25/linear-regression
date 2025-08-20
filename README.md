@@ -13,7 +13,7 @@ House Price (Multi-feature) → price predictions using multiple housing feature
 Advertising & Sales → influence of ad spending across media platforms
 
 **📊 Key Visuals**
-**STUDY HOURS & SCORES**
+EXAMPLE:**STUDY HOURS & SCORES**
 ![alt text](image.png)
 
 **💡 Insights**
