@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **🔎 Introduction**
 This project demonstrates how Linear Regression can be applied to multiple real-world datasets to uncover meaningful relationships.
 By fitting straight-line models, we can predict outcomes such as exam scores, salaries, house prices, and sales from relevant input variables.
@@ -20,7 +21,9 @@ House Size → Price
 ![alt text](image-1.png)
 
 **💡 Insights**
+
 📚 More study hours generally improve exam performance.
 💼 Work experience strongly impacts salary growth.
 🏠 House prices increase with property size; multi-feature models capture more accuracy.
 📢 Advertising through TV and radio shows stronger sales impact compared to newspapers.
+
