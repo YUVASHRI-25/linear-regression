@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **🔎 Introduction**
 This project demonstrates how Linear Regression can be applied to multiple real-world datasets to uncover meaningful relationships.
 By fitting straight-line models, we can predict outcomes such as exam scores, salaries, house prices, and sales from relevant input variables.
@@ -17,7 +16,7 @@ Advertising & Sales → influence of ad spending across media platforms
 **STUDY HOURS & SCORES**
 ![alt text](image.png)
 
-House Size → Price
+**House Size → Price**
 ![alt text](image-1.png)
 
 **💡 Insights**
