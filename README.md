@@ -1,4 +1,5 @@
 **🔎 Introduction**
+
 This project demonstrates how Linear Regression can be applied to multiple real-world datasets to uncover meaningful relationships.
 By fitting straight-line models, we can predict outcomes such as exam scores, salaries, house prices, and sales from relevant input variables.
 
